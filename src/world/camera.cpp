@@ -26,7 +26,7 @@ void cg::world::camera::set_theta(float in_theta)
 {
 	theta = in_theta * static_cast<float>(M_PI) / 180.f;
 }
-
+//test
 void cg::world::camera::set_phi(float in_phi)
 {
 	phi = in_phi * static_cast<float>(M_PI) / 180.f;
